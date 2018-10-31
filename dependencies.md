@@ -1,5 +1,5 @@
 # Google Apps Script Project: cLucky
-This repo (cLucky) was automatically updated on 31 October 2016 14:36:11 GMT by GasGit
+This repo (cLucky) was automatically updated on 31 October 2018 11:44:12 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cLucky
@@ -11,11 +11,14 @@ The shared link for [cLucky is here](https://script.google.com/d/1xn6hBRuQSmbY00
 --- | --- 
 Code| server_js
 test| server_js
+appsscript| json
 ### Directly referenced libraries
 no libraries discovered
 ### All dependencies and sub dependencies
 no libraries discovered
 ### Enabled Google Services
 no libraries discovered
-###Need more detail ?
+### Scopes required
+no scopes discovered
+### Need more detail ?
 You can see [full project info as json here](info.json)
